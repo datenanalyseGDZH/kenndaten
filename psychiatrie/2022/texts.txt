@@ -1,0 +1,420 @@
+Definitionen / Erläuterungen zu den Tabellen
+============================================
+
+Allgemeines
+-----------
+
+Ein Punkt ( . ) an Stelle einer Zahl bedeutet, dass eine
+Zahlenangabe aus logischen Gründen nicht möglich ist oder
+keine Zahlenangaben erhältlich waren. Die einzelnen
+Ursachen werden nicht unterschieden. Nullwerte werden
+hingegen mit der Zahl 0 dargestellt. 
+
+Definitionen / Erläuterungen
+----------------------------
+
+Anzahl Betten und Bettenbelegung: 
+
+Die Anzahl Betten bezeichnet die über das Jahr
+durchschnittlich betriebenen Betten und ist definiert als
+Bettenbetriebstage dividert durch die Anzahl Tage im Jahr.
+Die Bettenbetriebstage sind definiert als Tage, an denen
+ein Bett zur Bewirtschaftung zur Verfügung steht, und
+stammen aus der Krankenhausstatistik. Die Bettenbelegung
+ist definiert als das Verhältnis der Pflegetage zu den
+Bettenbetriebstagen. Die Quelle für die Pflegetage ist die
+Medizinische Statistik (vgl. dazu Definition Pflegetage). 
+
+Ausserkantonale Hospitalisationen: 
+
+In anderen Kantonen behandelte Patientinnen und Patienten
+mit Wohnsitz im Kanton Zürich. 
+
+Austritt: 
+
+Als Austritt wird ein stationärer Fall bezeichnet, der im
+entsprechenden Datenjahr mit einem Austritt aus dem Spital
+nach Hause, in ein anderes Spital, in ein Altersheim usw.
+endet (inkl. Todesfälle). Zur Definition der stationären
+Fälle siehe auch die Regeln und Definitionen zur
+Fallabrechnung unter SwissDRG, TARPSY und ST Reha. 
+
+Beschäftigte am 31. Dezember: 
+
+Anzahl der am 31. Dezember beschäftigten Personen.
+Teilzeitbeschäftigte werden voll mitgezählt. 
+
+Betriebsaufwand und -ertrag (Finanzbuchhaltung FiBu): 
+
+Der Aufwand/Ertrag eines Spitals wird in der
+Finanzbuchhaltung der Krankenhausstatistik inkl.
+Aufwand/Ertrag für Nebenbetriebe, Steuern sowie
+ausserordentliche und betriebsfremde Aufwendungen/Erträge
+ausgewiesen. Beim Betriebsaufwand/-ertrag in den Kenndaten
+werden Letztere abgezogen, die Nebenbetriebe sind jedoch
+enthalten. Quelle: Krankenhausstatistik 
+
+Case Mix (gesamte Fallschwere eines Spitals): 
+
+Die Summe aller Kostengewichte für die akutsomatischen
+Austritte eines Spitals entspricht dem Case Mix. 
+
+Case Mix Index (CMI): 
+
+Durchschnittliches Kostengewicht; Case Mix dividiert durch
+die Anzahl Austritte. 
+
+Day Mix: 
+
+Die Summe der effektiven Kostengewichte aller abgerechneten
+Fälle in der Psychiatrie oder Rehabilitation eines Spitals
+entspricht dem Day Mix. 
+
+Day Mix Index (DMI): 
+
+Durchschnittliches Kostengewicht pro Tag; Day Mix dividiert
+durch die Summe der Verweildauer dieser Fälle. 
+
+Medizinische Statistik (MS) BFS: 
+
+Die Daten für die ausserkantonalen Kliniken sind beim BFS
+zum Erstellungszeitpunkt der Kenndaten jeweils für das
+Vorjahr und das Jahr davor erhältlich. In den Tabellen mit
+innerkantonalen Daten des aktuellen Jahres werden die
+entsprechenden ausserkantonalen Angaben vom Vorjahr
+angegeben. 
+
+Mittlere Aufenthaltsdauer (MAHD): 
+
+Mittelwert der effektiven Aufenthaltsdauer aller im
+Kalenderjahr ausgetretenen Patientinnen und Patienten. 
+
+Akutsomatik: gemäss SwissDRG 
+
+Psychiatrie: gemäss TARPSY 
+
+Rehabilitation: gemäss ST Reha 
+
+Nebenbetriebe: 
+
+Nebenbetriebe sind Cafeterien, Kioske, Personalhäuser,
+Parkierungsanlagen, Kinderkrippen, Schulen etc. 
+
+Kostengewicht: 
+
+Kostengewichte sind empirisch ermittelte, relative
+Gewichte, die den durchschnittlichen Behandlungsaufwand
+einer gegebenen Gruppe von Patienten beschreiben. Sie
+werden in der Regel jährlich anhand von aktualisierten
+Fallkostendaten der Spitäler berechnet. 
+
+* SwissDRG: Jeder Fallgruppe (DRG) wird ein relatives
+Kostengewicht zugeordnet. Hierzu werden die
+durchschnittlichen Kosten der Inlier (d.h. Fälle ohne
+extreme Aufenthaltsdauer) einer DRG durch die
+durchschnittlichen Kosten sämtlicher Inlier aller Spitäler
+dividiert, der so genannten Bezugsgrösse. Sind die
+durchschnittlichen Kosten einer DRG gleich der
+Bezugsgrösse, ergibt sich ein Kostengewicht von 1,0. Die
+berechneten Kostengewichte pro DRG sind ersichtlich aus dem
+sogenannten Fallpauschalenkatalog. 
+
+* TARPSY und ST Reha: Die Kostengewichte werden berechnet,
+indem die durchschnittlichen Tageskosten einer Fallgruppe
+(PCG oder RCG) durch die durchschnittlichen Kosten pro Tag
+über sämtliche Fälle der Spitäler dividiert werden. Es
+handelt sich also um tagesbezogene Kostengewichte. Um das
+effektive Kostengewicht eines Falles zu berechnen, werden
+diese tagesbezogenen Kostengewichte mit der Verweildauer
+multipliziert. Die Kostengewichte werden im PCG- respektive
+RCG-Katalog ausgewiesen. 
+
+Krankenhausstatistik (KS) BFS: 
+
+Die Krankenhausstatistik des BFS ist eine administrative
+Statistik, welche die Infrastruktur (Immobilien, Mobilien,
+Betten, Personal), die Finanzen und die Aktivitäten der
+Schweizer Spitäler beschreibt. Zum Erstellungszeitpunkt der
+Kenndaten sind vom BFS die Daten jeweils für die Vorjahre
+erhältlich. Daher werden in den Tabellen mit Zürcher Daten
+des aktuellen Jahres die entsprechenden ausserkantonalen
+Daten vom Vorjahr angegeben. 
+
+Personalbestand in Vollzeitäquivalenten: 
+
+Der Personalbestand wird in Vollzeitäquivalenten (VZÄ)
+ausgedrückt. (Beispiele: eine Anstellung von 80% während
+des ganzen Jahres ergibt 0.8 VZÄ, eine Anstellung von 80%
+in den letzten zwei Monaten ergibt 0.8*2/12=0.13 VZÄ).
+Nebenbetriebe werden nicht mitgezählt. 
+
+Personal in Ausbildung wird mit folgenden
+Anrechnungsfaktoren bewertet (gültig ab Datenjahr 2010): 
+
+* 0.2: Ergotherapie, Ernährungsberatung, Hebammen,
+Logopädie, Physiotherapie und Unterassistenz. 
+
+* 0.3: Aktivierungstherapie, Andere Therapien,
+Biomedizinische Analytik, Dipl. Pflegepersonal, Med.
+Massage, Med.-techn. und Med.-therap. Personal mit
+Abschluss auf Sekundarstufe II, Med.-techn. Radiologie,
+Pflegepersonal mit Abschluss auf Sekundarstufe II, Techn.
+Operationsfachperson, Rettungssanität. 
+
+* 0.4: Administrativpersonal, Akademisches Personal,
+Hausdienstpersonal, Pflegepersonal auf Assistenzstufe,
+Psychologie, Technische Dienste und Transportsanität. 
+
+Pflegetage: 
+
+Ab dem Datenjahr 2009 werden die Pflegetage mit Hilfe der
+Medizinischen Statistik ausgewertet. Die Pflegetage sind
+wie folgt definiert, wobei nur die Tage im Berichtsjahr
+gezählt werden: 
+
+* Akutsomatik
+Pflegetage werden gemäss SwissDRG berechnet: Als Pflege-,
+resp. Aufenthaltstag gelten der Aufnahmetag sowie jeder
+weitere Tag des Spitalaufenthalts ohne den Verlegungs- oder
+Entlassungstag. Bei Fallzusammenführungen werden die Tage
+zwischen den einzelnen Spitalaufenthalten abgezogen. Ganze
+Urlaubstage werden ebenfalls abgezählt. Da nur die
+Urlaubstage, aber nicht die Daten des Urlaubs erhoben
+werden, müssen die Urlaubstage bei Patientinnen und
+Patienten mit Spitalaufenthalt über einen Jahreswechsel auf
+die verschiedenen Jahre verteilt werden. Der Urlaub wird
+dazu im Verhältnis zur Aufenthaltsdauer auf die Jahre
+verteilt. 
+
+* Psychiatrie und Rehabilitation
+Pflegetage werden gemäss TARPSY respektive ST Reha (ab
+2022) berechnet: Als Pflege-, resp. Aufenthaltstag gelten
+der Aufnahmetag sowie jeder weitere Tag des
+Spitalaufenthalts inkl. Entlassungstag, falls an diesem
+keine Verlegung stattgefunden hat. Bei
+Fallzusammenführungen werden die Tage zwischen den
+einzelnen Spitalaufenthalten abgezogen. Ganze Urlaubstage
+werden ebenfalls abgezählt. Da nur die Urlaubstage, aber
+nicht die Daten des Urlaubs erhoben werden, müssen die
+Urlaubstage bei Patientinnen und Patienten mit
+Spitalaufenthalt über einen Jahreswechsel auf die
+verschiedenen Jahre verteilt werden. Der Urlaub wird dazu
+im Verhältnis zur Aufenthaltsdauer auf die Jahre verteilt. 
+
+Spitaldatenerhebungsplattform (SDEP): 
+
+Die jährliche Erhebung des Kantons Zürich erfolgt gebündelt
+über die Spitaldatenerhebungsplattform (SDEP). Die SDEP
+Daten umfassen die Medizinische Statistik, die
+Krankenhausstatistik, die SwissDRG-Kostenträgerrechnung,
+eine Abstimmbrücke zwischen Finanz- und Betriebsbuchhaltung
+und weitere kantonseigene Variablen. 
+
+Spitalhäufigkeit: 
+
+Anzahl Spitalaustritte insgesamt pro 1000 im Kanton Zürich
+wohnhafte Personen. Die Austritte von Zürcher Patientinnen
+und Patienten aus ausserkantonalen Spitälern fliessen in
+die Berechnung mit ein. Nicht eingerechnet werden hingegen
+die Austritte von ausserkantonalen Patientinnen und
+Patienten aus den Zürcher Spitälern. 
+
+Stationärer Fall: 
+
+Aufenthalte im Spital von mindestens 24 Stunden zur
+Untersuchung, Behandlung und Pflege. Aufenthalte von
+weniger als 24 Stunden gelten als stationärer Fall, wenn um
+Mitternacht ein Bett belegt wird, bei Verlegung in ein
+anderes Spital und bei Todesfall (vgl. auch die Regeln und
+Definitionen zur Fallabrechnung unter SwissDRG, TARPSY und
+ST Reha). 
+
+ST Reha: 
+
+ST Reha ist das Tarifsystem für stationäre
+Rehabilitationsleistungen, das gemäss dem
+Krankenversicherungsgesetz (KVG) die Vergütung der
+stationären Spitalleistungen nach leistungsbezogenen
+Tagespauschalen schweizweit einheitlich regelt. Beim
+Tarifsystem ST Reha wird jeder Spitalaufenthalt anhand von
+bestimmten Kriterien wie Hauptdiagnose, Nebendiagnose,
+Behandlungen und Aufenthaltsdauer einer sogenannten
+Rehabilitation Cost Group (PCG) zugeordnet und pauschal
+vergütet. 
+
+SwissDRG: 
+
+SwissDRG (Swiss Diagnosis Related Groups) ist das
+Tarifsystem für stationäre akutsomatische Spitalleistungen,
+das gemäss dem Krankenversicherungsgesetz (KVG) die
+Vergütung der stationären Spitalleistungen nach
+Fallpauschalen schweizweit einheitlich regelt. Beim
+Fallpauschalensystem SwissDRG wird jeder Spitalaufenthalt
+anhand von bestimmten Kriterien wie Hauptdiagnose,
+Nebendiagnose, Behandlungen und Schweregrad einer
+Fallgruppe zugeordnet und pauschal vergütet. 
+
+TARPSY: 
+
+TARPSY ist das Tarifsystem für stationäre psychiatrische
+Spitalleistungen, das gemäss dem Krankenversicherungsgesetz
+(KVG) die Vergütung der stationären Spitalleistungen nach
+leistungsbezogenen Tagespauschalen schweizweit einheitlich
+regelt. Beim Tarifsystem TARPSY wird jeder Spitalaufenthalt
+anhand von bestimmten Kriterien wie Hauptdiagnose,
+Nebendiagnose, Behandlungen und Aufenthaltsdauer einer
+sogenannten Psychiatric Cost Group (PCG) zugeordnet und
+pauschal vergütet. 
+
+Personaldaten
+-------------
+
+Allgemeine Bemerkungen: 
+
+* Die Daten für ausserkantonale Kliniken sind beim BFS für
+die Jahre 2020 und 2021 erhältlich. 
+
+* Sämtliche Angaben inkl. Personal der Akutsomatik- und
+Rehabilitationsabteilungen sofern vorhanden, jedoch ohne
+externes Personal (insb. ohne Belegärzte). Nebenbetriebe
+werden nicht berücksichtigt. 
+
+* Das Personal des Gesamtbetriebs des Zentrums für
+Psychiatrie und Psychotherapie Affoltern, Spitäler
+Schaffhausen - Psychiatriezentrums Breitenau, KiSpi Zürich
+- Psychosomatik und Psychiatrie, KSW - Sozialpädiatrischen
+Zentrums und USZ - Zentrums für Essstörungen werden in der
+Akutsomatik ausgewiesen. 
+
+* Tabelle P2.2: Das medizinische Personal umfasst
+medizinisch-technisches und medizinisch-therapeutisches
+Personal. 
+
+Finanzen
+--------
+
+Allgemeine Bemerkungen: 
+
+* Die Daten für ausserkantonale Kliniken sind beim BFS für
+die Jahre 2020 und 2021 erhältlich. 
+
+* Die Tabellen 3.1 und 3.2 enthalten Angaben aus der
+Finanzbuchhaltung. Diese sind nur auf Ebene des
+Unternehmens verfügbar. Die Tabellen 3.3 bis 3.5 enthalten
+Daten aus der Betriebsbuchhaltung und können nach
+Leistungsbereich (Akutsomatik, Psychiatrie, Rehabilitation)
+differenziert ausgewiesen werden. 
+
+* Tabellen 3.3 bis 3.5: Diese enthalten nur den
+Leistungsbereich Psychiatrie. Bei ``Übrige Aufträge''
+handelt es sich um Leistungen für Lehre & Forschung und um
+Leistungen, die keinen Zusammenhang mit dem Kerngeschäft
+haben (z.B. Nebenbetriebe). 
+
+Hospitalisierung --  Austritte
+------------------------------
+
+Allgemeine Bemerkungen: 
+
+* Die Daten für ausserkantonale Kliniken sind beim BFS für
+die Jahre 2020 und 2021 erhältlich. 
+
+* Die Daten der PUK werden aufgrund ihres differenzierten
+Leistungsangebots unterteilt. Sowohl die Klinik für Kinder-
+und Jugendpsychiatrie und Psychotherapie (KJPP) als auch
+die Forensik der Psychiatrischen Universitätsklinik (PUK)
+werden separat ausgewiesen. 
+
+* Tabelle P4.3: Der Day Mix Index wird für alle
+gruppierbaren Fälle berechnet und ausgewiesen. 
+
+* Tabelle P4.6: Zuteilung der Gemeinden zu den
+Psychiatrieregionen gemäss Karte P1.1. Fälle, die keiner
+Zürcher Psychiatrieregion zugeteilt werden können, werden
+unter Nicht zuteilbar ausgewiesen. Darin sind auch
+ausserkantonale und ausländische Fälle enthalten. 
+
+Hospitalisierung --  Pflegetage
+-------------------------------
+
+Allgemeine Bemerkungen: 
+
+* Die Daten für ausserkantonale Kliniken sind beim BFS für
+die Jahre 2020 und 2021 erhältlich. 
+
+* Die Daten der PUK werden aufgrund ihres differenzierten
+Leistungsangebots unterteilt. Sowohl die Klinik für Kinder-
+und Jugendpsychiatrie und Psychotherapie (KJPP) als auch
+die Forensik der Psychiatrischen Universitätsklinik (PUK)
+werden separat ausgewiesen. 
+
+* Die Pflegetage werden gemäss den nach TARPSY geltenden
+Regeln und Definitionen berechnet und ausgewiesen. 
+
+Hospitalisierung --  Aufenthaltsdauer
+-------------------------------------
+
+Allgemeine Bemerkungen: 
+
+* Die Daten für ausserkantonale Kliniken sind beim BFS für
+die Jahre 2020 und 2021 erhältlich. 
+
+* Die Daten der PUK werden aufgrund ihres differenzierten
+Leistungsangebots unterteilt. Sowohl die Klinik für Kinder-
+und Jugendpsychiatrie und Psychotherapie (KJPP) als auch
+die Forensik der Psychiatrischen Universitätsklinik (PUK)
+werden separat ausgewiesen. 
+
+* Die Werte entsprechen der durchschnittlichen
+Aufenthaltsdauer gemäss TARPSY Grouper Output der Austritte
+im Erhebungsjahr. 
+
+Hospitalisierung --  Betten
+---------------------------
+
+Allgemeine Bemerkungen: 
+
+* Die Daten für ausserkantonale Kliniken sind beim BFS für
+die Jahre 2020 und 2021 erhältlich. 
+
+* Sämtliche Angaben ohne Betten aus den Akutsomatik- und
+Rehabilitationsabteilungen. 
+
+* Die Bettenzahl der forensischen Psychiatrie am Standort
+Rheinau ist in der Bettenzahl der Pysichatrischen
+Universitätsklinik Zürich enthalten. 
+
+* Tabelle P4.14: Betten der Allgemeinpsychiatrien mit
+Zürcher Leistungsauftrag (ohne ausserkantonale Kliniken). 
+
+Zürcher Patientinnen und Patienten
+----------------------------------
+
+Allgemeine Bemerkungen: 
+
+* Die Daten 2022 der ausserkantonalen Kliniken sind beim
+BFS noch nicht erhältlich, deshalb werden die Daten 2021
+ausgewiesen. 
+
+* Die Daten der PUK werden aufgrund ihres differenzierten
+Leistungsangebots unterteilt. Sowohl die Klinik für Kinder-
+und Jugendpsychiatrie und Psychotherapie (KJPP) als auch
+die Forensik der Psychiatrischen Universitätsklinik (PUK)
+werden separat ausgewiesen. 
+
+* Tabelle P5.2: Die Pflegetage der Überlieger ohne Diagnose
+sind in der Leistungsgruppe 'Andere' enthalten. Die
+Austritte von Zürcher Patientinnen und Patienten in
+ausserkantonalen Kliniken fliessen in die Berechnung ebenso
+mit ein. 
+
+* Tabelle P5.3.2: Anzahl Spitalaustritte pro 1000 im Kanton
+Zürich wohnhafte Personen. Die Austritte von Zürcher
+Patientinnen und Patienten in ausserkantonalen Kliniken
+fliessen in die Berechnung ebenso mit ein. 
+
+* Da die schweizweiten Hospitalisierungszahlen nur auf
+Ebene MedStat-Region vorliegen, werden die Quartiere Enge
+und Wollishofen in dieser Tabelle zur Region Zürich
+gezählt. 
+

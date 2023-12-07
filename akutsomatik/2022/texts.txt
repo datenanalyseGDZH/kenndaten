@@ -1,0 +1,458 @@
+Definitionen / Erläuterungen zu den Tabellen
+============================================
+
+Allgemeines
+-----------
+
+Ein Punkt ( . ) an Stelle einer Zahl bedeutet, dass eine
+Zahlenangabe aus logischen Gründen nicht möglich ist oder
+keine Zahlenangaben erhältlich waren. Die einzelnen
+Ursachen werden nicht unterschieden. Nullwerte werden
+hingegen mit der Zahl 0 dargestellt. 
+
+Definitionen / Erläuterungen
+----------------------------
+
+Anzahl Betten und Bettenbelegung: 
+
+Die Anzahl Betten bezeichnet die über das Jahr
+durchschnittlich betriebenen Betten und ist definiert als
+Bettenbetriebstage dividert durch die Anzahl Tage im Jahr.
+Die Bettenbetriebstage sind definiert als Tage, an denen
+ein Bett zur Bewirtschaftung zur Verfügung steht, und
+stammen aus der Krankenhausstatistik. Die Bettenbelegung
+ist definiert als das Verhältnis der Pflegetage zu den
+Bettenbetriebstagen. Die Quelle für die Pflegetage ist die
+Medizinische Statistik (vgl. dazu Definition Pflegetage). 
+
+Ausserkantonale Hospitalisationen: 
+
+In anderen Kantonen behandelte Patientinnen und Patienten
+mit Wohnsitz im Kanton Zürich. 
+
+Austritt: 
+
+Als Austritt wird ein stationärer Fall bezeichnet, der im
+entsprechenden Datenjahr mit einem Austritt aus dem Spital
+nach Hause, in ein anderes Spital, in ein Altersheim usw.
+endet (inkl. Todesfälle). Zur Definition der stationären
+Fälle siehe auch die Regeln und Definitionen zur
+Fallabrechnung unter SwissDRG, TARPSY und ST Reha. 
+
+Beschäftigte am 31. Dezember: 
+
+Anzahl der am 31. Dezember beschäftigten Personen.
+Teilzeitbeschäftigte werden voll mitgezählt. 
+
+Betriebsaufwand und -ertrag (Finanzbuchhaltung FiBu): 
+
+Der Aufwand/Ertrag eines Spitals wird in der
+Finanzbuchhaltung der Krankenhausstatistik inkl.
+Aufwand/Ertrag für Nebenbetriebe, Steuern sowie
+ausserordentliche und betriebsfremde Aufwendungen/Erträge
+ausgewiesen. Beim Betriebsaufwand/-ertrag in den Kenndaten
+werden Letztere abgezogen, die Nebenbetriebe sind jedoch
+enthalten. Quelle: Krankenhausstatistik 
+
+Case Mix (gesamte Fallschwere eines Spitals): 
+
+Die Summe aller Kostengewichte für die akutsomatischen
+Austritte eines Spitals entspricht dem Case Mix. 
+
+Case Mix Index (CMI): 
+
+Durchschnittliches Kostengewicht; Case Mix dividiert durch
+die Anzahl Austritte. 
+
+Day Mix: 
+
+Die Summe der effektiven Kostengewichte aller abgerechneten
+Fälle in der Psychiatrie oder Rehabilitation eines Spitals
+entspricht dem Day Mix. 
+
+Day Mix Index (DMI): 
+
+Durchschnittliches Kostengewicht pro Tag; Day Mix dividiert
+durch die Summe der Verweildauer dieser Fälle. 
+
+Medizinische Statistik (MS) BFS: 
+
+Die Daten für die ausserkantonalen Kliniken sind beim BFS
+zum Erstellungszeitpunkt der Kenndaten jeweils für das
+Vorjahr und das Jahr davor erhältlich. In den Tabellen mit
+innerkantonalen Daten des aktuellen Jahres werden die
+entsprechenden ausserkantonalen Angaben vom Vorjahr
+angegeben. 
+
+Mittlere Aufenthaltsdauer (MAHD): 
+
+Mittelwert der effektiven Aufenthaltsdauer aller im
+Kalenderjahr ausgetretenen Patientinnen und Patienten. 
+
+Akutsomatik: gemäss SwissDRG 
+
+Psychiatrie: gemäss TARPSY 
+
+Rehabilitation: gemäss ST Reha 
+
+Nebenbetriebe: 
+
+Nebenbetriebe sind Cafeterien, Kioske, Personalhäuser,
+Parkierungsanlagen, Kinderkrippen, Schulen etc. 
+
+Kostengewicht: 
+
+Kostengewichte sind empirisch ermittelte, relative
+Gewichte, die den durchschnittlichen Behandlungsaufwand
+einer gegebenen Gruppe von Patienten beschreiben. Sie
+werden in der Regel jährlich anhand von aktualisierten
+Fallkostendaten der Spitäler berechnet. 
+
+* SwissDRG: Jeder Fallgruppe (DRG) wird ein relatives
+Kostengewicht zugeordnet. Hierzu werden die
+durchschnittlichen Kosten der Inlier (d.h. Fälle ohne
+extreme Aufenthaltsdauer) einer DRG durch die
+durchschnittlichen Kosten sämtlicher Inlier aller Spitäler
+dividiert, der so genannten Bezugsgrösse. Sind die
+durchschnittlichen Kosten einer DRG gleich der
+Bezugsgrösse, ergibt sich ein Kostengewicht von 1,0. Die
+berechneten Kostengewichte pro DRG sind ersichtlich aus dem
+sogenannten Fallpauschalenkatalog. 
+
+* TARPSY und ST Reha: Die Kostengewichte werden berechnet,
+indem die durchschnittlichen Tageskosten einer Fallgruppe
+(PCG oder RCG) durch die durchschnittlichen Kosten pro Tag
+über sämtliche Fälle der Spitäler dividiert werden. Es
+handelt sich also um tagesbezogene Kostengewichte. Um das
+effektive Kostengewicht eines Falles zu berechnen, werden
+diese tagesbezogenen Kostengewichte mit der Verweildauer
+multipliziert. Die Kostengewichte werden im PCG- respektive
+RCG-Katalog ausgewiesen. 
+
+Krankenhausstatistik (KS) BFS: 
+
+Die Krankenhausstatistik des BFS ist eine administrative
+Statistik, welche die Infrastruktur (Immobilien, Mobilien,
+Betten, Personal), die Finanzen und die Aktivitäten der
+Schweizer Spitäler beschreibt. Zum Erstellungszeitpunkt der
+Kenndaten sind vom BFS die Daten jeweils für die Vorjahre
+erhältlich. Daher werden in den Tabellen mit Zürcher Daten
+des aktuellen Jahres die entsprechenden ausserkantonalen
+Daten vom Vorjahr angegeben. 
+
+Personalbestand in Vollzeitäquivalenten: 
+
+Der Personalbestand wird in Vollzeitäquivalenten (VZÄ)
+ausgedrückt. (Beispiele: eine Anstellung von 80% während
+des ganzen Jahres ergibt 0.8 VZÄ, eine Anstellung von 80%
+in den letzten zwei Monaten ergibt 0.8*2/12=0.13 VZÄ).
+Nebenbetriebe werden nicht mitgezählt. 
+
+Personal in Ausbildung wird mit folgenden
+Anrechnungsfaktoren bewertet (gültig ab Datenjahr 2010): 
+
+* 0.2: Ergotherapie, Ernährungsberatung, Hebammen,
+Logopädie, Physiotherapie und Unterassistenz. 
+
+* 0.3: Aktivierungstherapie, Andere Therapien,
+Biomedizinische Analytik, Dipl. Pflegepersonal, Med.
+Massage, Med.-techn. und Med.-therap. Personal mit
+Abschluss auf Sekundarstufe II, Med.-techn. Radiologie,
+Pflegepersonal mit Abschluss auf Sekundarstufe II, Techn.
+Operationsfachperson, Rettungssanität. 
+
+* 0.4: Administrativpersonal, Akademisches Personal,
+Hausdienstpersonal, Pflegepersonal auf Assistenzstufe,
+Psychologie, Technische Dienste und Transportsanität. 
+
+Pflegetage: 
+
+Ab dem Datenjahr 2009 werden die Pflegetage mit Hilfe der
+Medizinischen Statistik ausgewertet. Die Pflegetage sind
+wie folgt definiert, wobei nur die Tage im Berichtsjahr
+gezählt werden: 
+
+* Akutsomatik
+Pflegetage werden gemäss SwissDRG berechnet: Als Pflege-,
+resp. Aufenthaltstag gelten der Aufnahmetag sowie jeder
+weitere Tag des Spitalaufenthalts ohne den Verlegungs- oder
+Entlassungstag. Bei Fallzusammenführungen werden die Tage
+zwischen den einzelnen Spitalaufenthalten abgezogen. Ganze
+Urlaubstage werden ebenfalls abgezählt. Da nur die
+Urlaubstage, aber nicht die Daten des Urlaubs erhoben
+werden, müssen die Urlaubstage bei Patientinnen und
+Patienten mit Spitalaufenthalt über einen Jahreswechsel auf
+die verschiedenen Jahre verteilt werden. Der Urlaub wird
+dazu im Verhältnis zur Aufenthaltsdauer auf die Jahre
+verteilt. 
+
+* Psychiatrie und Rehabilitation
+Pflegetage werden gemäss TARPSY respektive ST Reha (ab
+2022) berechnet: Als Pflege-, resp. Aufenthaltstag gelten
+der Aufnahmetag sowie jeder weitere Tag des
+Spitalaufenthalts inkl. Entlassungstag, falls an diesem
+keine Verlegung stattgefunden hat. Bei
+Fallzusammenführungen werden die Tage zwischen den
+einzelnen Spitalaufenthalten abgezogen. Ganze Urlaubstage
+werden ebenfalls abgezählt. Da nur die Urlaubstage, aber
+nicht die Daten des Urlaubs erhoben werden, müssen die
+Urlaubstage bei Patientinnen und Patienten mit
+Spitalaufenthalt über einen Jahreswechsel auf die
+verschiedenen Jahre verteilt werden. Der Urlaub wird dazu
+im Verhältnis zur Aufenthaltsdauer auf die Jahre verteilt. 
+
+Spitaldatenerhebungsplattform (SDEP): 
+
+Die jährliche Erhebung des Kantons Zürich erfolgt gebündelt
+über die Spitaldatenerhebungsplattform (SDEP). Die SDEP
+Daten umfassen die Medizinische Statistik, die
+Krankenhausstatistik, die SwissDRG-Kostenträgerrechnung,
+eine Abstimmbrücke zwischen Finanz- und Betriebsbuchhaltung
+und weitere kantonseigene Variablen. 
+
+Spitalhäufigkeit: 
+
+Anzahl Spitalaustritte insgesamt pro 1000 im Kanton Zürich
+wohnhafte Personen. Die Austritte von Zürcher Patientinnen
+und Patienten aus ausserkantonalen Spitälern fliessen in
+die Berechnung mit ein. Nicht eingerechnet werden hingegen
+die Austritte von ausserkantonalen Patientinnen und
+Patienten aus den Zürcher Spitälern. 
+
+Stationärer Fall: 
+
+Aufenthalte im Spital von mindestens 24 Stunden zur
+Untersuchung, Behandlung und Pflege. Aufenthalte von
+weniger als 24 Stunden gelten als stationärer Fall, wenn um
+Mitternacht ein Bett belegt wird, bei Verlegung in ein
+anderes Spital und bei Todesfall (vgl. auch die Regeln und
+Definitionen zur Fallabrechnung unter SwissDRG, TARPSY und
+ST Reha). 
+
+ST Reha: 
+
+ST Reha ist das Tarifsystem für stationäre
+Rehabilitationsleistungen, das gemäss dem
+Krankenversicherungsgesetz (KVG) die Vergütung der
+stationären Spitalleistungen nach leistungsbezogenen
+Tagespauschalen schweizweit einheitlich regelt. Beim
+Tarifsystem ST Reha wird jeder Spitalaufenthalt anhand von
+bestimmten Kriterien wie Hauptdiagnose, Nebendiagnose,
+Behandlungen und Aufenthaltsdauer einer sogenannten
+Rehabilitation Cost Group (PCG) zugeordnet und pauschal
+vergütet. 
+
+SwissDRG: 
+
+SwissDRG (Swiss Diagnosis Related Groups) ist das
+Tarifsystem für stationäre akutsomatische Spitalleistungen,
+das gemäss dem Krankenversicherungsgesetz (KVG) die
+Vergütung der stationären Spitalleistungen nach
+Fallpauschalen schweizweit einheitlich regelt. Beim
+Fallpauschalensystem SwissDRG wird jeder Spitalaufenthalt
+anhand von bestimmten Kriterien wie Hauptdiagnose,
+Nebendiagnose, Behandlungen und Schweregrad einer
+Fallgruppe zugeordnet und pauschal vergütet. 
+
+TARPSY: 
+
+TARPSY ist das Tarifsystem für stationäre psychiatrische
+Spitalleistungen, das gemäss dem Krankenversicherungsgesetz
+(KVG) die Vergütung der stationären Spitalleistungen nach
+leistungsbezogenen Tagespauschalen schweizweit einheitlich
+regelt. Beim Tarifsystem TARPSY wird jeder Spitalaufenthalt
+anhand von bestimmten Kriterien wie Hauptdiagnose,
+Nebendiagnose, Behandlungen und Aufenthaltsdauer einer
+sogenannten Psychiatric Cost Group (PCG) zugeordnet und
+pauschal vergütet. 
+
+Personaldaten
+-------------
+
+Allgemeine Bemerkungen: 
+
+* Die Daten für ausserkantonale Spitäler sind beim BFS für
+die Jahre 2020 und 2021 erhältlich. 
+
+* Sämtliche Angaben inkl. Personal der Psychiatrie- und
+Rehabilitationsabteilungen sofern vorhanden, jedoch ohne
+externes Personal (insb. ohne Belegärzte und -hebammen).
+Nebenbetriebe werden nicht berücksichtigt. 
+
+* See-Spital: Bei den Personaldaten wird keine
+Unterscheidung nach Spitalstandort vorgenommen. 
+
+* Paracelsus-Spital Richterswil: Das Spital wurde Ende
+November 2020 geschlossen. Für 2020 sind nicht alle
+Variablen der Personalstatistik verfügbar. 
+
+* Tabelle A2.2: Das medizinische Personal umfasst
+medizinisch-technisches und medizinisch-therapeutisches
+Personal, sowie Hebammen. 
+
+\clearpage 
+
+Finanzen
+--------
+
+Allgemeine Bemerkungen: 
+
+* Die Daten für ausserkantonale Kliniken sind beim BFS für
+die Jahre 2020 und 2021 erhältlich. 
+
+* See-Spital: Die Krankenhausstatistik lässt keine
+Unterscheidung nach Spitalstandort zu. 
+
+* Paracelsus-Spital Richterswil: Das Spital wurde Ende
+November 2020 geschlossen. Für 2020 sind keine Finanzdaten
+verfügbar. 
+
+* Die Tabellen 3.1 und 3.2 enthalten Angaben aus der
+Finanzbuchhaltung. Diese sind nur auf Ebene des
+Unternehmens verfügbar. Die Tabellen 3.3 bis 3.5 enthalten
+Daten aus der Betriebsbuchhaltung und können nach
+Leistungsbereich (Akutsomatik, Psychiatrie, Rehabilitation)
+differenziert ausgewiesen werden. 
+
+* Tabellen 3.3 bis 3.5: Diese enthalten nur den
+Leistungsbereich Akutsomatik. Bei ``Übrige Aufträge''
+handelt es sich um Leistungen für Lehre & Forschung und um
+Leistungen, die keinen Zusammenhang mit dem Kerngeschäft
+haben (z.B. Nebenbetriebe). 
+
+* Die Tabelle 3.6 wird 2022 zum ersten Mal publiziert und
+enthält die Anzahl fakturierter Taxpunkte pro ausgewähltem
+ambulanten Tarif. Die Information steht nur für Spitäler
+mit Zürcher Leistungsauftrag zur Verfügung. Für die
+Spitäler Triemli (alle Tarife), Uroviva (TARMED) sowie
+Affoltern (Ergotherapie) stehen für 2022 keine Daten zur
+Verfügung und werden aus diesem Grund mit 0 dargestellt.
+Die Taxpunkte werden gesamthaft pro Betrieb unabhängig vom
+Leistungsbereich dargestellt. 
+
+\clearpage 
+
+Hospitalisierung --  Austritte
+------------------------------
+
+Allgemeine Bemerkungen: 
+
+* Die Daten für ausserkantonale Kliniken sind beim BFS für
+die Jahre 2020 und 2021 erhältlich. 
+
+* SPLG: Die Fallzahlzuordnung basiert auf den
+Spitalplanungsleistungsgruppen (SPLG) Version 2022.1. 
+
+* Die Grundgesamtheit umfasst Akutsomatik Fälle sowie Fälle
+aus Psychiatrie- und Rehabilitationsabteilungen. Fälle mit
+Pflegetarif werden nur in der Tabelle A4.1 ausgewiesen. 
+
+* Paracelsus-Spital Richterswil: Das Spital wurde Ende
+November 2020 geschlossen. 
+
+* Tabellen A4.4 und A4.5: Weil die SPLG-Definitionen
+jährlich ändern, können die Spitäler Schaffhausen nicht in
+die Tabelle aufgenommen werden (für Schaffhausen sind erst
+die Daten des Vorjahres vorhanden). 
+
+* Tabelle A4.5: Nach MFZ-Zählweise kann ein Fall mehreren
+SPLGs zugeteilt und somit mehrmals gezählt werden. Nur
+Spitäler mit mindestens einem Fall in den SPLG mit MFZ
+werden aufgeführt. 
+
+* Tabelle A4.7: Nur Austritte mit Tarifsystem SwissDRG. Der
+Sune-Egge rechnet nicht nach SwissDRG ab. 
+
+* Tabelle A4.9: Zuteilung der Gemeinden zu den Wohnregionen
+gemäss Karte A1.1. Die Zuteilung der Postleitzahlen zu den
+Gemeinden wurde neu berechnet, weshalb es im Vergleich zum
+Vorjahre leichte Verschiebungen zwischen einigen Regionen
+gibt. Fälle, die keiner Zürcher Wohnregion zugeteilt werden
+können, werden unter Nicht zuteilbar ausgewiesen. Darin
+sind auch ausserkantonale und ausländische Fälle enthalten. 
+
+\clearpage 
+
+Hospitalisierung --  Pflegetage
+-------------------------------
+
+Allgemeine Bemerkungen: 
+
+* Die Daten der ausserkantonalen Kliniken sind beim BFS für
+die Jahre 2020 und 2021 erhältlich. 
+
+* Pflegetage werden gemäss SwissDRG berechnet: Als Pflege-,
+resp. Aufenthaltstag gelten der Aufnahmetag sowie jeder
+weitere Tag des Spitalaufenthalts ohne den Verlegungs- oder
+Entlassungstag. Die neue Berechnung kam im Kenndatenbuch
+2015 zum ersten Mal zur Anwendung. Daher ist die Anzahl
+Pflegetage mit der Publikation in früheren Kenndatenbüchern
+nicht vergleichbar. Neugeborene auf der Gynäkologie oder
+Geburtshilfe werden in der Berechnung ausgeschlossen. 
+
+* Aufenthaltsdauer gemäss SwissDRG: Austrittstag -
+Eintrittstag - Urlaubstage der Fälle mit Austritt im
+jeweiligen Erhebungsjahr. Im Gegensatz zu den Pflegetagen
+wird für jeden Fall mit Austritt die gesamte
+Aufenthaltsdauer (inkl. Vorjahre) betrachtet. 
+
+* Paracelsus-Spital Richterswil: Das Spital wurde Ende
+November 2020 geschlossen. 
+
+\clearpage 
+
+Hospitalisierung --  Betten
+---------------------------
+
+Allgemeine Bemerkungen: 
+
+* Die Daten der ausserkantonalen Kliniken sind beim BFS für
+die Jahre 2020 und 2021 erhältlich. 
+
+* Sämtliche Angaben ohne Betten aus den Psychiatrie- und
+Rehabilitationsabteilungen. Einheiten für Neugeborene auf
+der Gynäkologie oder Geburtshilfe werden ausgeschlossen. 
+
+* See-Spital: Die Krankenhausstatistik lässt keine
+Unterscheidung nach Standort zu. 
+
+* Paracelsus-Spital Richterswil: Das Spital wurde Ende
+November 2020 geschlossen. 
+
+* Tabelle A4.14: Die Bettenbelegung ist definiert als das
+Verhältnis der Pflegetage zu den Bettenbetriebstagen. In
+der Akutsomatik werden die Pflegetage gemäss SwissDRG
+berechnet. Einheiten für Neugeborene auf der Gynäkologie
+oder Geburtshilfe werden ausgeschlossen. 
+
+* Tabelle A4.15: Betten der Spitäler mit Zürcher
+Leistungsauftrag (nur Akutsomatik, ohne Geburtshäuser und
+ohne Betten für Neugeborene, ohne ausserkantonale
+Spitäler). 
+
+\clearpage 
+
+Zürcher Patientinnen und Patienten
+----------------------------------
+
+Allgemeine Bemerkungen: 
+
+* Zürcher Wohnbevölkerung: Die Daten der medizinischen
+Statistik für das Erhebungsjahr 2022 sind noch nicht
+verfügbar. 
+
+* Zuteilung der Gemeinden zu den Wohnregionen gemäss Karte
+A1.1. Die Zuteilung der Postleitzahlen zu den Gemeinden
+wurde neu berechnet, weshalb es im Vergleich zum Vorjahre
+leichte Verschiebungen zwischen einigen Regionen gibt.
+Fälle, die nicht eindeutig einer Wohnregion zugeteilt
+werden können, werden ausgeschlossen. 
+
+* Paracelsus-Spital Richterswil: Das Spital wurde Ende
+November 2020 geschlossen. 
+
+* Tabelle A5.3.2: Siehe Definitionen/Erläuterungen zum
+Begriff “Spitalhäufigkeit” 
+
+\clearpage 
+
